@@ -8,6 +8,9 @@ Firefox Plugin, called "Custom Style Script"
 - https://addons.mozilla.org/en-US/firefox/user/MilenMonrov/?src=api
 ***********/
 (function() {
+	/* (xxx)-favicon */
+	/* options: dev, dev2, dev3 */
+	/* options: qa, qa2, qa3 */
     var favicon = 'qa-favicon'; // <-- change this as needed
 
     var link = document.querySelector("link[rel*='icon']") || document.createElement('link');
