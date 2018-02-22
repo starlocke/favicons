@@ -5,6 +5,9 @@
 - All of the tabs look like your production environment.
 - Apply a dose of contextual favicons and you'll be able to browse easy again!
 
+## A screenshot of: Instant Relief Action!™
+![A screenshot of: Instant Relief Action!™](/favicons-screenshot.png?raw=true "A screenshot of: Instant Relief Action!™")
+
 ## Recommended dosage:
 - Acquire a Javascript-injection extension (see below).
 - Acquire the off-the-shelf `snippet.js` file.
